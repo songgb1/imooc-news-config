@@ -1,0 +1,4 @@
+blackIp:
+  continueCounts: ${counts:10}    
+  timeInterval: ${interval:10}   
+  limitTimes: ${times:15}   
